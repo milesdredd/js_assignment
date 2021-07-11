@@ -16,4 +16,3 @@ for(k of s){
 		revword = ""
 	}
 }
-console.log("hi")
